@@ -1,0 +1,6 @@
+{
+  "name": "E-Kinerja SMP Negeri 2 Serang Baru",
+  "description": "Aplikasi Jurnal Harian Kinerja dan Rekap Bulanan Resmi untuk SMP Negeri 2 Serang Baru Dinas Pendidikan Kabupaten Bekasi",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
